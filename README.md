@@ -9,10 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-* 🎓 Pursuing a B.Tech in Metallurgical and Materials Engineering at MNIT Jaipur.
+* 🎓 Pursuing a B.Tech at NIT Jaipur.
 * 💻 Focused on Full-Stack Development (MERN), Mobile Apps (React Native), and Data Structures & Algorithms in Java.
 * 🔬 Actively applying Machine Learning to materials science for predictive modeling.
-* 🎵 Fun fact: When I'm not coding or training at the gym, I'm writing and producing tracks for the DHH scene.
+* 🎵 Fun fact: When I'm not coding or training at the gym, I'm writing and producing music.
 
 ---
 
@@ -39,8 +39,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanm9026&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanm9026&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=aryanm9026&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryanm9026&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
