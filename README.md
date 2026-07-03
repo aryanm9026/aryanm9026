@@ -45,6 +45,18 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aryanm9026&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanm9026&theme=radical" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 🐍 Contribution Activity
 <div align="center">
   <img src="https://github.com/aryanm9026/aryanm9026/blob/output/github-snake.svg" alt="Snake animation" />
