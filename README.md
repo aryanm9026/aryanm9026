@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Mishra</h1>
 
 <h3 align="center">
-  Software Developer • Full-Stack Engineer • Open-Source Contributor
+  Software Development • Full-Stack • Open-Source Contributor
 </h3>
 
 <p align="center">
-  <em>Building reliable systems, developer-focused products, and applications that solve real problems.</em>
+  <em>Building reliable systems, developer-focused products, and applications that solve real world problems.</em>
 </p>
 
 <p align="center">
@@ -20,11 +20,10 @@
 
 * 🎓 B.Tech student at **MNIT Jaipur**
 * 💻 Focused on **Software Development, Backend Engineering, and Full-Stack Systems**
-* 🏦 Building production-oriented systems with **Node.js, Express, MongoDB, PostgreSQL, Redis, and React**
+* 🏦 Building production-oriented systems with **Node.js, Express, MongoDB, PostgreSQL, Redis, Firebase and React**
 * 🧠 Strengthening **Data Structures & Algorithms** for software engineering roles
 * 🌍 Interested in **open-source collaboration** and real-world engineering problems
-* ⚙️ Exploring scalable APIs, distributed systems concepts, caching, concurrency, and system design
-* 🎯 Preparing for **2028 software engineering placements**
+* ⚙️ Exploring scalable APIs, distributed systems, caching, concurrency, and system design
 
 ---
 
@@ -36,7 +35,7 @@
 
 ### 🏦 Secure Banking Backend
 
-A production-oriented fintech backend designed around correctness and reliability.
+A production-oriented fin-tech backend designed around correctness and reliability.
 
 **Highlights**
 
@@ -68,8 +67,9 @@ A custom campus navigation platform built for MNIT Jaipur.
 * GeoJSON-based spatial data
 * Custom routing logic
 * Campus-focused navigation
+* In-building maps
 
-**Tech:** JavaScript • Leaflet • GeoJSON • Turf.js
+**Tech:** JavaScript • Leaflet • GeoJSON • Turf.js • Vanilla HTML + CSS
 
 <a href="https://github.com/aryanm9026/mapsNIT">
   <strong>View Repository →</strong>
@@ -83,9 +83,9 @@ A custom campus navigation platform built for MNIT Jaipur.
 
 ### 🔊 Dhwani AI Sound Analyzer
 
-An intelligent sound-analysis application exploring modern AI-assisted audio workflows.
+A Gemini-powered intelligent sound-analysis application exploring modern AI-assisted audio workflows.
 
-**Tech:** TypeScript • Web Technologies • AI/ML
+**Tech:** TypeScript • ReactJS • NodeJS • ExpressJS • MongoDB • AI/ML
 
 <a href="https://github.com/aryanm9026/dhwani-ai-sound-analyzer">
   <strong>View Repository →</strong>
@@ -107,7 +107,7 @@ A machine-learning system for predicting mechanical properties and studying infl
 * SHAP-based interpretation
 * Materials informatics
 
-**Tech:** Python • Pandas • Scikit-learn • XGBoost • SHAP
+**Tech:** Python • Pandas • Scikit-learn • XGBoost • SHAP • mat-plot
 
 </td>
 </tr>
@@ -138,7 +138,7 @@ A machine-learning system for predicting mechanical properties and studying infl
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,gcp" alt="Tools and platforms" />
 </p>
 
 ---
@@ -146,11 +146,6 @@ A machine-learning system for predicting mechanical properties and studying infl
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=aryanm9026&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Aryan's GitHub stats"
-  />
   <img
     width="49%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanm9026&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
@@ -194,8 +189,11 @@ A machine-learning system for predicting mechanical properties and studying infl
   <a href="https://github.com/aryanm9026">
     <img src="https://img.shields.io/badge/GitHub-aryanm9026-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/aryanmishra9026">
+    <img src="https://img.shields.io/badge/Linkedin-aryanmishra9026-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" />
+  </a>
 </p>
 
 <p align="center">
-  <em>Open to software engineering opportunities, open-source collaboration, and interesting engineering problems.</em>
+  <em>I hope you find something helpful here.</em>
 </p>
