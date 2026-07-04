@@ -1,78 +1,201 @@
-<h1 align="center">Hi there, I'm Aryan 👋</h1>
+<h1 align="center">Hi 👋, I'm Aryan Mishra</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=MERN+Stack+Developer;React+Native+Enthusiast;Machine+Learning+Researcher;Competitive+Programmer" alt="Typing SVG" />
+<h3 align="center">
+  Software Developer • Full-Stack Engineer • Open-Source Contributor
+</h3>
+
+<p align="center">
+  <em>Building reliable systems, developer-focused products, and applications that solve real problems.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aryanm9026">
+    <img src="https://komarev.com/ghpvc/?username=aryanm9026&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-</div>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 Pursuing a B.Tech at NIT Jaipur.
-* 💻 Focused on Full-Stack Development (MERN), Mobile Apps (React Native), and Data Structures & Algorithms in Java.
-* 🔬 Actively applying Machine Learning to materials science for predictive modeling.
-* 🎵 Fun fact: When I'm not coding or training at the gym, I'm writing and producing music.
+## 👨‍💻 About Me
+
+* 🎓 B.Tech student at **MNIT Jaipur**
+* 💻 Focused on **Software Development, Backend Engineering, and Full-Stack Systems**
+* 🏦 Building production-oriented systems with **Node.js, Express, MongoDB, PostgreSQL, Redis, and React**
+* 🧠 Strengthening **Data Structures & Algorithms** for software engineering roles
+* 🌍 Interested in **open-source collaboration** and real-world engineering problems
+* ⚙️ Exploring scalable APIs, distributed systems concepts, caching, concurrency, and system design
+* 🎯 Preparing for **2028 software engineering placements**
 
 ---
 
-### 💻 Tech Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Secure Banking Backend
+
+A production-oriented fintech backend designed around correctness and reliability.
+
+**Highlights**
+
+* Double-entry ledger
+* ACID transactions
+* Idempotent APIs
+* Concurrency control
+* Audit logging
+* Redis-backed rate limiting
+
+**Tech:** Node.js • Express • MongoDB • Redis • JWT
+
+<a href="https://github.com/aryanm9026/nodeJS-based-banking-app-backend">
+  <strong>View Repository →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗺️ mapsNIT
+
+A custom campus navigation platform built for MNIT Jaipur.
+
+**Highlights**
+
+* Interactive campus maps
+* Search and exploration
+* GeoJSON-based spatial data
+* Custom routing logic
+* Campus-focused navigation
+
+**Tech:** JavaScript • Leaflet • GeoJSON • Turf.js
+
+<a href="https://github.com/aryanm9026/mapsNIT">
+  <strong>View Repository →</strong>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔊 Dhwani AI Sound Analyzer
+
+An intelligent sound-analysis application exploring modern AI-assisted audio workflows.
+
+**Tech:** TypeScript • Web Technologies • AI/ML
+
+<a href="https://github.com/aryanm9026/dhwani-ai-sound-analyzer">
+  <strong>View Repository →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚗️ Smart Alloy Designer
+
+A machine-learning system for predicting mechanical properties and studying influential alloy parameters.
+
+**Highlights**
+
+* Ensemble ML benchmarking
+* XGBoost / Random Forest workflows
+* Feature engineering
+* SHAP-based interpretation
+* Materials informatics
+
+**Tech:** Python • Pandas • Scikit-learn • XGBoost • SHAP
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
-* **Splitzy:** An Android expense-sharing application leveraging OCR and the Gemini API for automated bill scanning and splitting.
-* **Blitzschlag Ecosystem:** Campus-wide web interface and Android application developed for the cultural festival, featuring secure Gold Pass integration.
-* **MapsNIT:** A geo-spatial navigation platform providing building-level internal routing for the college campus.
-* **AlloyProphet:** A machine learning research initiative utilizing Random Forest models on a dataset of 500+ systems to predict magnesium alloy properties for cryogenic applications.
-* **YONO Vajra:** Prototyped zero-trust security middleware designed to tackle vulnerabilities in enterprise banking platforms.
-* **Dhwani:** An AI-based sound analyzer and signal processing system developed for DRDO (Smart India Hackathon Finalist).
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" alt="Languages" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" alt="Backend and databases" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Tools and platforms" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aryanm9026&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryanm9026&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=aryanm9026&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Aryan's GitHub stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanm9026&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Aryan's top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=aryanm9026&theme=tokyonight&hide_border=true"
+    alt="Aryan's GitHub streak"
+  />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanm9026&theme=radical" alt="GitHub Streak" />
-</div>
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aryanm9026/aryanm9026/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aryanm9026/aryanm9026/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/aryanm9026/aryanm9026/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanm9026&theme=radical" alt="GitHub Trophies" />
-</div>
+## 🤝 Connect With Me
 
----
+<p align="center">
+  <a href="https://github.com/aryanm9026">
+    <img src="https://img.shields.io/badge/GitHub-aryanm9026-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-### 🐍 Contribution Activity
-<div align="center">
-  <img src="https://github.com/aryanm9026/aryanm9026/blob/output/github-snake.svg" alt="Snake animation" />
-</div>## Hi there 👋
-
-<!--
-**aryanm9026/aryanm9026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Open to software engineering opportunities, open-source collaboration, and interesting engineering problems.</em>
+</p>
